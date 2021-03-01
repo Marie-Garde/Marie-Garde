@@ -1,23 +1,20 @@
 ### Hi, I'm Marie GARDE a web Developer from France !
+
 About Me
 
-    Passionate about the development of web projects, I naturally turned to the career of a web developer.
+    Graduated at the end of 2017 as agronomist, I worked 2 years as a trade. Currently I'm starting my retraining in an environment that is important to me : digital, as a web developer. 
+    I took a course at WildcodeSchool during 5 months on ReactJs and NodeJs technologies, before joining IBM Lille as an inter on Angular and NodeJs technologies.
 
-    Currently in training as a WEB developer at the Wild Code School in Lille, I am looking for a company that could welcome me as part of an agreed internship of at least 4 months from February to March.
-
-    The training gravitated mainly on the JavaScript stack, notably ReactJS for the front-end side and NodeJS with Express for the backend with the use of MySQL. Proficiency in collaboration software such as Git, GitHub, Slack.
-
-    Today I want to deepen my skills and develop new ones, the position of web developer in HTML5, CSS3, ReactJS and NodeJS technologies perfectly matches my objectives and that is why I allow myself to send you my application.
-
-    Autonomous, rigorous and creative, I am very invested in my work and particularly appreciate teamwork.
+    The training gravitated mainly on the JavaScript stack, notably ReactJS for the front-end side and NodeJS with Express for the backend with the use of MySQL, and I'm currently training on Angular.
 
 Technologies
 
-    Languages : HTML5, CSS, JavaScript, TypeScript
-    Backend : Node.js
-    Frontend : React.js, Angular
-    CSS FrameWork : Bootstrap
-    Database : MySQL
+    Languages : ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF), ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000), ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
+    Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF)
+    Frontend : ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
+    CSS FrameWork : ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
+    Database : ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)
+    CMS : ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=FFFFFF)
 
 Tools I use
 
