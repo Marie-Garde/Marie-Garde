@@ -16,7 +16,7 @@ Technologies
    
    Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF)
    
-   Frontend : ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
+   Frontend : ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF), [Angular]
    
    CSS FrameWork : ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
    
@@ -45,7 +45,7 @@ Tools I use
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)
 
 
-Figma 
+
 
 
 <!--
