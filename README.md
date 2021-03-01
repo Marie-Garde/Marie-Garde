@@ -17,7 +17,7 @@ Technologies
     CMS : ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=FFFFFF)
 
 Tools I use
-
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
 VSCode Git Github Google Office 365
 
 Linux Windows NPM Yarn
