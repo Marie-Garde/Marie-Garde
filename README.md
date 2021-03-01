@@ -21,8 +21,6 @@ Technologies
    CSS FrameWork : ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
    
    Database : ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)
-   
-   CMS : ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=FFFFFF)
 
 Tools I use
 
