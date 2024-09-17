@@ -5,10 +5,11 @@ About Me
     Graduated at the end of 2017 as agronomist, I worked 2 years as a trade. Currently I'm starting my retraining 
     in an environment that is important to me : digital, as a web developer. 
     I took a course at WildcodeSchool during 5 months on ReactJs and NodeJs technologies, before joining IBM Lille 
-    as an inter on Angular and NodeJs technologies.
+    as an intern on Angular and NodeJs technologies.
 
-    The training gravitated mainly on the JavaScript stack, notably ReactJS for the front-end side and NodeJS with 
-    Express for the backend with the use of MySQL, and I'm currently training on Angular.
+    I worked on VueJs, Angular, NodeJs and NestJs and continue practicing React in my personal projects.
+    I wish to specialize in front-end development and develop cross-functional skills such as accessibility and UI/UX.
+    
 
 Technologies
 
