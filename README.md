@@ -16,7 +16,7 @@ Technologies
    
    Frontend : ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF), ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&logo=angular&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
    
-   Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF)
+   Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF), ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
    
    CSS FrameWork : ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
    
@@ -25,6 +25,7 @@ Technologies
 Tools I use
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF)
 ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat&logo=google&logoColor=FFFFFF)
@@ -39,6 +40,7 @@ Tools I use
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=FFFFFF)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-F57F00?style=flat)
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)
 
